@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\subha\\source\\repos\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\models\\noteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\models\\noteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|c:\\users\\subha\\source\\repos\\school\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF6DDE7-154B-4AC8-9FF1-DEB78D6D617F}|School\\School.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Models\\NoTeacher.cs",
+              "RelativeDocumentMoniker": "School\\Models\\NoTeacher.cs",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Models\\NoTeacher.cs",
+              "RelativeToolTip": "School\\Models\\NoTeacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:12:28.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "School\\Views\\TeacherPage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeToolTip": "School\\Views\\TeacherPage\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T18:32:05.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Views\\TeacherPage\\List.cshtml",
+              "RelativeDocumentMoniker": "School\\Views\\TeacherPage\\List.cshtml",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Views\\TeacherPage\\List.cshtml",
+              "RelativeToolTip": "School\\Views\\TeacherPage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T18:25:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Controllers\\TeacherAPIController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\TeacherAPIController.cs",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Controllers\\TeacherAPIController.cs*",
+              "RelativeToolTip": "School\\Controllers\\TeacherAPIController.cs*",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAkwIcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:39:49.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherPageController.cs",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Controllers\\TeacherPageController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\TeacherPageController.cs",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Controllers\\TeacherPageController.cs",
+              "RelativeToolTip": "School\\Controllers\\TeacherPageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:36:09.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "School\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Models\\Teacher.cs",
+              "RelativeToolTip": "School\\Models\\Teacher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:31:45.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "School\\Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "School\\Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:30:00.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\subha\\source\\repos\\School\\School\\Program.cs",
+              "RelativeDocumentMoniker": "School\\Program.cs",
+              "ToolTip": "C:\\Users\\subha\\source\\repos\\School\\School\\Program.cs",
+              "RelativeToolTip": "School\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:49:36.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

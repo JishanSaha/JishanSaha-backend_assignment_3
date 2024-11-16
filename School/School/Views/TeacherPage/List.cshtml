@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Teacher List";
+}
+
+<h1>Teacher List</h1>
+<p>This is the teacher list page.</p>
+@model IEnumerable<School.Models.Teacher>
+@foreach (School.Models.Teacher Teacher in Model)
+{
+    <div>
+        <a href="/TeacherPage/Show/@Teacher.Id">@Teacher.FName @Teacher.LName</a>
+    </div>
+}
